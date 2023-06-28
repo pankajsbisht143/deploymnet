@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "deploymnet",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajsbisht143/deploymnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajsbisht143/deploymnet/issues"
+  },
+  "homepage": "https://github.com/pankajsbisht143/deploymnet#readme"
+}
